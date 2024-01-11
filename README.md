@@ -1,1 +1,2 @@
-# bachelor-thesis
+## Abstract
+Some results from optimal transport are useful for deriving geometric and Gaussian inequalities. In this thesis we review proofs of the Brunn-Minkowski, isoperimetric and a special case of the Gaussian correlation inequality that use results form optimal transport. We start with a short introduction to optimal transport and introduce the displacement interpolation. As an illustrative example we use it to interpolate between two black and white images. Finally, we derive sufficient conditions under witch a conditional version of the Gaussian correlation inequality for hyperrectangles holds. In particular, this condition is satisfied for any centered bivariate normal distribution.  
